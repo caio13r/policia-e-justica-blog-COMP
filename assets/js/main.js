@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){const y=document.getElementById('year');if(y)y.textContent=new Date().getFullYear();const el=document.querySelector('#newsCarousel');if(el)new bootstrap.Carousel(el,{interval:5000,ride:'carousel'});});

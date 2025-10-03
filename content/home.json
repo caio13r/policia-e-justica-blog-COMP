@@ -1,0 +1,115 @@
+{
+  "carousel": [
+    {
+      "title": "Tribunal mantém sentença em 2ª instância",
+      "desc": "Forças de segurança cumprem mandados em ação conjunta.",
+      "img": "assets/img/slide1.svg",
+      "link": ""
+    },
+    {
+      "title": "Operação contra roubo de cargas avança",
+      "desc": "Prisões e apreensões ocorrem em quatro estados.",
+      "img": "assets/img/slide2.svg",
+      "link": ""
+    },
+    {
+      "title": "Projeto de lei amplia proteção às vítimas",
+      "desc": "Texto prevê medidas urgentes e ampliação de recursos.",
+      "img": "assets/img/slide3.svg",
+      "link": ""
+    }
+  ],
+  "noticias": [
+    {
+      "title": "Tribunal mantém sentença em 2ª instância",
+      "slug": "tribunal-mantem-sentenca",
+      "desc": "Decisão reforça entendimento sobre improbidade administrativa.",
+      "img": "assets/img/news1.svg",
+      "body": "Conteúdo completo da matéria *exemplo*."
+    },
+    {
+      "title": "Operação contra roubo de cargas avança",
+      "slug": "operacao-roubo-de-cargas",
+      "desc": "Prisões e apreensões ocorrem em quatro estados.",
+      "img": "assets/img/news2.svg",
+      "body": "Detalhes e desdobramentos da operação."
+    },
+    {
+      "title": "Projeto de lei amplia proteção às vítimas",
+      "slug": "pl-protecao-vitimas",
+      "desc": "Texto prevê medidas urgentes e ampliação de recursos.",
+      "img": "assets/img/news3.svg",
+      "body": "Análise do projeto de lei e impactos."
+    }
+  ],
+  "patrocinadores": [
+    {
+      "name": "Seguradora Alfa",
+      "logo": "assets/img/sponsor1.svg",
+      "link": "https://example.com/alfa",
+      "desc": "Planos de seguro com cobertura nacional."
+    },
+    {
+      "name": "Jurídico Beta",
+      "logo": "assets/img/sponsor2.svg",
+      "link": "https://example.com/beta",
+      "desc": "Escritório especializado em direito penal."
+    },
+    {
+      "name": "Tech Gamma",
+      "logo": "assets/img/sponsor3.svg",
+      "link": "https://example.com/gamma",
+      "desc": "Tecnologia para redações e monitoramento."
+    },
+    {
+      "name": "Invest Delta",
+      "logo": "assets/img/sponsor4.svg",
+      "link": "https://example.com/delta",
+      "desc": "Investimentos com foco social."
+    },
+    {
+      "name": "Saúde Épsilon",
+      "logo": "assets/img/sponsor5.svg",
+      "link": "https://example.com/epsilon",
+      "desc": "Rede de clínicas parceiras."
+    },
+    {
+      "name": "Edu Zeta",
+      "logo": "assets/img/sponsor6.svg",
+      "link": "https://example.com/zeta",
+      "desc": "Cursos para profissionais de segurança."
+    }
+  ],
+  "galeria": [
+    {
+      "title": "Operação em Andamento",
+      "img": "assets/img/gallery1.svg",
+      "caption": "Equipes em campo durante ação conjunta."
+    },
+    {
+      "title": "Coletiva de Imprensa",
+      "img": "assets/img/gallery2.svg",
+      "caption": "Autoridades detalham resultados da operação."
+    },
+    {
+      "title": "Ação Integrada",
+      "img": "assets/img/gallery3.svg",
+      "caption": "Integração entre forças amplia a eficiência."
+    },
+    {
+      "title": "Apreensão de Itens",
+      "img": "assets/img/gallery4.svg",
+      "caption": "Materiais apreendidos apresentados em coletiva."
+    },
+    {
+      "title": "Policiamento Ostensivo",
+      "img": "assets/img/gallery5.svg",
+      "caption": "Patrulhamento reforçado em áreas estratégicas."
+    },
+    {
+      "title": "Vistoria de Veículos",
+      "img": "assets/img/gallery6.svg",
+      "caption": "Fiscalização com apoio de tecnologia embarcada."
+    }
+  ]
+}
