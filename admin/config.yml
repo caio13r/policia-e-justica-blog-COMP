@@ -1,4 +1,4 @@
-backend:
+﻿backend:
   name: git-gateway
   branch: main
 
@@ -30,7 +30,7 @@ collections:
             widget: "list"
             fields:
               - {label: "Título", name: "title", widget: "string"}
-              - {label: "Slug (sem espaços)", name: "slug", widget: "string"}
+              - {label: "Slug", name: "slug", widget: "string"}
               - {label: "Resumo", name: "desc", widget: "string", required: false}
               - {label: "Imagem", name: "img", widget: "image"}
               - {label: "Link externo (opcional)", name: "link", widget: "string", required: false}

@@ -1,10 +1,11 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="pt-br">
   <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>Admin - Polícia e Justiça</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/decap-cms@3.2.7/dist/decap-cms.css"/>
+    <link rel="cms-config-url" type="text/yaml" href="/admin/config.yml">
   </head>
   <body>
     <!-- Decap CMS -->
@@ -16,9 +17,7 @@
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
           if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
+            window.netlifyIdentity.on("login", () => { document.location.href = "/admin/"; });
           }
         });
       }
